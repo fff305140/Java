@@ -1,4 +1,1 @@
-# Java
-<script>
-document.write("HELLO");
-</script>
+JAVA IS GOOD !
